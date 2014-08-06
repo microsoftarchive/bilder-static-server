@@ -1,0 +1,17 @@
+{
+  "name": "bilder-static-server",
+  "version": "0.0.0",
+  "description": "static server grunt task",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wunderlist/bilder-static-server.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/wunderlist/bilder-static-server",
+  "dependencies": {
+    "connect": "^3.1.0",
+    "serve-favicon": "^2.0.1",
+    "serve-static": "^1.5.0",
+    "tiny-lr": "^0.1.0"
+  }
+}
